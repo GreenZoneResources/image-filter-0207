@@ -34,6 +34,11 @@ Follow the process described in the course to `eb init` a new application and `e
 ### Akerele Adedayo EB Image Filtering Deployment Endpoint
 http://image-filter-0207-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/images/ic/640x360/p0ck4zw7.jpg
 
+### Reference Materials
+Special thanks to the youtube video of Ugochukwu Ukwuegbu(Udacity Session Lead )
+AWS Documentation Website
+My Session Lead guide - Seunfunmi
+A guide by a cloud developer udacity colleague in the person of Daniel
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
